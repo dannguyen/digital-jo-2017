@@ -73,9 +73,9 @@ Switching the toggle controls whether or not you want Google to keep tracking yo
 
 Clicking the hamburger icon in the left corner will bring up a submenu, including **Delete activity**:
 
-.. image:: files/images/web-activity-history-sidebar-delete.png
+.. image:: images/web-activity-history-sidebar-delete.png
 
-Like browser activity, you're given options on what you want to delete. It's not always the case that you want to erase *everything*, but the optin is there:
+Like browser activity, you're given options on what you want to delete. It's not always the case that you want to erase *everything*, but the option is there:
 
 .. image:: images/web-activity-history-delete.png
 
