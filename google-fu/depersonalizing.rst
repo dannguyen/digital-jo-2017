@@ -5,7 +5,7 @@ Google's search results have been `tailored to your account and personal activit
 
 The most obvious manifestation of this can be seen in Google autocomplete, especially if you're using Chrome. If you've searched in the past for ``stanford soccer``, Google will assume in subsequent searches beginning with ``stanford``, that you're again interested in *soccer*, as opposed to a more popular sport like *football*, or *stanford shopping center*.
 
-.. image:: images/google-fu/autocomplete-soccer.png
+.. image:: images/autocomplete-soccer.png
 
 Besides your account activity, Google and Google Chrome are able to discern other information about you, including:
 
@@ -23,11 +23,11 @@ For Chrome and Safari, the keyboard shortcut for launching a new browser instanc
 For Firefox, it's the same, except :kbd:`p` ("p" for "private") instead of :kbd:`n`
 
 
-.. image:: images/google-fu/incognitomodemenu.png
+.. image:: images/incognitomodemenu.png
 
 In Incognito Mode, the browser color scheme might darken. At the very least, you should see a privacy icon in the **right corner** of the browser to remind you.
 
-.. image:: files/images/google-fu/private-browser-icon.png
+.. image:: files/images/private-browser-icon.png
 
 
 You can read more about the caveats of `Incognito Mode on Google's support site <https://support.google.com/chrome/answer/7440301>`_ -- basically assume that everything is still visible at least to your Internet Service Provider (and law enforcement) but Google won't (ostensibly) keep a log of your activity:
@@ -44,11 +44,11 @@ For a given browser, your past visits to Stanford Soccer webpages is tracked in 
 
 In Chrome, the **Clear Browsing Data...** action is under the **Chrome** menu item:
 
-.. image:: images/google-fu/clear-browsing-data-menu-item.png
+.. image:: images/clear-browsing-data-menu-item.png
 
 Deleting browsing history and download history is generally sufficient, especially if you find the browser's "autofill" for passwords convenient on a day-to-day basis:
 
-.. image:: images/google-fu/clear-browsing-data-menu.png
+.. image:: images/clear-browsing-data-menu.png
 
 
 Controlling and deleting Google account activity
@@ -65,19 +65,19 @@ Some of the kinds of activity that you can review, control, and delete, include:
 - What you've searched for on YouTube
 - What you've watched on YouTube
 
-.. image:: images/google-fu/browser-activity-control.png
+.. image:: images/browser-activity-control.png
 
 Switching the toggle controls whether or not you want Google to keep tracking your activity. Click the ``MANAGE ACTIVITY`` link to see what Google has tracked so far:
 
-.. image:: images/google-fu/web-activity-history.png
+.. image:: images/web-activity-history.png
 
 Clicking the hamburger icon in the left corner will bring up a submenu, including **Delete activity**:
 
-.. image:: files/images/google-fu/web-activity-history-sidebar-delete.png
+.. image:: files/images/web-activity-history-sidebar-delete.png
 
 Like browser activity, you're given options on what you want to delete. It's not always the case that you want to erase *everything*, but the optin is there:
 
-.. image:: images/google-fu/web-activity-history-delete.png
+.. image:: images/web-activity-history-delete.png
 
 
 
